@@ -26,12 +26,9 @@ https://www.olx.pl/elektronika/telefony/smartfony-telefony-komorkowe/q-iphone/?s
 
 ⚙️ Krok 3: Skonfiguruj config.json
 
-{
-  "olx_url": "TU_WKLEJ_LINK_Z_OLX",
-  "discord_webhook": "TU_WKLEJ_LINK_DO_WEBHOOKA",
-  "check_interval": 60,
-  "debug_mode": false
-}
+
+![image](https://github.com/user-attachments/assets/2ffae2df-b16b-4fe7-b06f-17601208569d)
+
 
 📢 Krok 4: Jak stworzyć webhook Discord
 Wejdź na swój serwer Discord (musisz mieć uprawnienia admina)
@@ -48,7 +45,7 @@ Skopiuj adres webhooka (coś w stylu):
 
 https://discord.com/api/webhooks/1234567890/ABCDEF...
 
-Wklej ten link do config.json pod discord_webhook
+Wklej ten link do config.json w miejscu discord_webhook
 
 ▶️ Krok 5: Uruchomienie programu
 Po zainstalowaniu wszystkiego i skonfigurowaniu uruchom przez cmd:
